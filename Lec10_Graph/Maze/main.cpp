@@ -98,9 +98,9 @@ int main() {
 	}
 
 	printf("BFS 결과");
-	deque<Location2D> locDeque; // 위치 덱 객체 생성 (스택처럼 활용)
+	deque<Location2D> locDeque; // 위치 덱 객체 생성 (큐처럼 활용)
 	Location2D entry(1, 0);     // 입구 위치
-	locDeque.push_back(entry); // 덱의 앞(front)에 입구 삽입	
+	locDeque.push_back(entry); // 덱의 뒤(back)에 입구 삽입	
 
 	while (locDeque.empty() == false) {
 		Location2D here = locDeque.front();
