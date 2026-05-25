@@ -86,10 +86,21 @@ int main() {
 	}   // case2중괄호 끝
 	} //switch 중괄호
 
+	// DFS를 거치면서 '.'으로 변해버린 길들을 다시 '0'과 'e'로 되돌려줍니다.
+	for (int r = 0; r < MAZE_SIZE; r++) {
+		for (int c = 0; c < MAZE_SIZE; c++) {
+			if (map[r][c] == '.') {
+				// (1,0) 자리는 원래 입구('e')였으므로 'e'로, 나머지는 길('0')로 복구
+				if (r == 1 && c == 0) map[r][c] = 'e';
+				else map[r][c] = '0';
+			}
+		}
+	}
+
 	printf("BFS 결과");
 	deque<Location2D> locDeque; // 위치 덱 객체 생성 (스택처럼 활용)
 	Location2D entry(1, 0);     // 입구 위치
-	locDeque.push_back(entry); // 덱의 앞(front)에 입구 삽입
+	locDeque.push_back(entry); // 덱의 앞(front)에 입구 삽입	
 
 	while (locDeque.empty() == false) {
 		Location2D here = locDeque.front();
