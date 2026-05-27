@@ -32,7 +32,7 @@ int main()
     g.resetVisited();
     g.DFS(0);
     printf("\n");
-
+    printf("\nweighted Graph 테스트\n");
     //Weight Graph 테스트
     WGraph wg;
     wg.load("../graph.txt");    //graph 텍스트 파일 읽어오기

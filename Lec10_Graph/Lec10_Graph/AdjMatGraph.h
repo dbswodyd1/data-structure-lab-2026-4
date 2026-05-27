@@ -40,7 +40,7 @@ public:
         for (int i = 0; i < size; i++) {		// 각 행의 정보 출력
             fprintf(fp, "%c", getVertex(i));	// 정점의 이름 출력
             for (int j = 0; j < size; j++)	// 간선 정보 출력
-                fprintf(fp, "%3d", getEdge(i, j));
+                fprintf(fp, "%5d", getEdge(i, j));
             fprintf(fp, "\n");
         }
     }
