@@ -33,5 +33,11 @@ int main()
     g.DFS(0);
     printf("\n");
 
+    //Weight Graph 테스트
+    WGraph wg;
+    wg.load("../graph.txt");    //graph 텍스트 파일 읽어오기
+    wg.display();               //display
+
     return 0;
 }
+
