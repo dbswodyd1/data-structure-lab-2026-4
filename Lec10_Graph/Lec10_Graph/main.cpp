@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include "AdjMatGraph.h"	// 그래프 클래스 포함
-
 int main()
 {
     SrchAMGraph g;	// 새로운 그래프 객체 생성
@@ -37,6 +36,15 @@ int main()
     WGraph wg;
     wg.load("../graph.txt");    //graph 텍스트 파일 읽어오기
     wg.display();               //display
+
+    WGraphMST g;
+    g.load("graph.txt");
+    // printf("입력 그래프: graph.txt\n");
+    // g.display("graph.txt");
+    printf("MST By Kruskal’s Algorithm\n");
+    g.Kruskal();
+
+
 
     return 0;
 }

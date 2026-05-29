@@ -1,10 +1,35 @@
 ﻿  main.cpp
-C:\Users\sk481\OneDrive\바탕 화면\data-structure-2026\Lec10_Graph\Lec10_Graph\AdjMatGraph.h(89,34): warning C4477: 'fscanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\MinHeap.h(11,25): error C2512: 'HeapNode': 사용할 수 있는 적절한 기본 생성자가 없습니다.
   (소스 파일 'main.cpp'을(를) 컴파일하는 중)
-      C:\Users\sk481\OneDrive\바탕 화면\data-structure-2026\Lec10_Graph\Lec10_Graph\AdjMatGraph.h(89,34):
-      이 인수는 버퍼 크기로 사용됩니다.
+  C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\HeapNode.h(3,7):
+  'HeapNode' 선언을 참조하십시오.
   
-C:\Users\sk481\OneDrive\바탕 화면\data-structure-2026\Lec10_Graph\Lec10_Graph\AdjMatGraph.h(84,24): warning C4101: 'val' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\MinHeap.h(26,16): error C2660: 'HeapNode::setKey': 함수는 3개의 인수를 사용하지 않습니다.
   (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\HeapNode.h(9,7):
+  'HeapNode::setKey' 선언을 참조하십시오.
+  C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\MinHeap.h(26,16):
+  인수 목록 '(int, int, int)'을(를) 일치시키는 동안
   
-  Lec10_Graph.vcxproj -> C:\Users\sk481\OneDrive\바탕 화면\data-structure-2026\Lec10_Graph\x64\Debug\Lec10_Graph.exe
+C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\AdjMatGraph.h(7,1): warning C4005: 'MAX_VTXS': 매크로 재정의
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\VertexSets.h(5,1):
+  'MAX_VTXS'의 이전 정의를 참조하십시오.
+  
+C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\AdjMatGraph.h(92,34): warning C4477: 'fscanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+  (소스 파일 'main.cpp'을(를) 컴파일하는 중)
+  C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\AdjMatGraph.h(92,34):
+  이 인수는 버퍼 크기로 사용됩니다.
+  
+C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\main.cpp(40,15): error C2371: 'g': 재정의. 기본 형식이 다릅니다.
+  C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\main.cpp(5,17):
+  'g' 선언을 참조하십시오.
+  
+C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\main.cpp(41,7): error C2039: 'load': 'SrchAMGraph'의 멤버가 아닙니다.
+  C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\AdjMatGraph.h(53,11):
+  'SrchAMGraph' 선언을 참조하십시오.
+  
+C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\main.cpp(45,7): error C2039: 'Kruskal': 'SrchAMGraph'의 멤버가 아닙니다.
+  C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\AdjMatGraph.h(53,11):
+  'SrchAMGraph' 선언을 참조하십시오.
+  
