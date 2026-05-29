@@ -37,12 +37,12 @@ int main()
     wg.load("../graph.txt");    //graph 텍스트 파일 읽어오기
     wg.display();               //display
 
-    WGraphMST g;
-    g.load("graph.txt");
+    WGraphMST wgm;
+    wgm.load("../graph.txt");
     // printf("입력 그래프: graph.txt\n");
     // g.display("graph.txt");
-    printf("MST By Kruskal’s Algorithm\n");
-    g.Kruskal();
+    printf("\nMST By Kruskal’s Algorithm\n");
+    wgm.Kruskal();
 
 
 

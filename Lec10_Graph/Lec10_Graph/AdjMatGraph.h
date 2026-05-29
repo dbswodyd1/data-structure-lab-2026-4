@@ -4,7 +4,7 @@
 #include "VertexSets.h"
 #include "MinHeap.h"
 
-#define MAX_VTXS 20
+#define MAX_VTXS 100
 #define INF 9999
 
 class AdjMatGraph {
@@ -88,8 +88,7 @@ public:
                 fscanf_s(fp, "%d", &n); // 정점의 전체 개수
                 for (int i = 0; i < n; i++) {
                     char str[80];
-                    int val;
-                    fscanf_s(fp, "%s", str, sizeof(str)); // 정점의 이름
+                    fscanf_s(fp, "%s", str, unsigned(sizeof(str))); // 정점의 이름
                     insertVertex(str[0]); // 정점 삽입
                     for (int j = 0; j < n; j++) {
                         fscanf_s(fp, "%d", &val); // 간선 정보
@@ -117,7 +116,7 @@ public:
                 int vset = set.findSet(e.getV2());
                 if (uset != vset) {
                     printf("간선 추가 : %c - %c (비용:%d)\n",
-                        getVertex(e.getV1()), getVertex(e.getV2()), e.getKey());
+                    getVertex(e.getV1()), getVertex(e.getV2()), e.getKey());
                     set.unionSets(uset, vset); // 두개의 집합을 합함.
                     edgeAccepted++;
                 }

@@ -1,8 +1,7 @@
 #pragma once
 
 #define VERTEXSETS_H
-
-#define MAX_VTXS 100
+#define MAX_VTXS 30
 
 class VertexSets {
 	int parent[MAX_VTXS]; // 부모 정점의 id
