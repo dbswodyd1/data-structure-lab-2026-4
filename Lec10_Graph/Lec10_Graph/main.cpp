@@ -3,7 +3,7 @@
 #include "WGraph.h"
 #include "WGraphMST.h"
 #include "WGraphDijkstra.h"
-#include "WGraphPrin.h"
+#include "WGraphPrim.h"
 int main()
 {
     SrchAMGraph g;	// 货肺款 弊贰橇 按眉 积己
@@ -50,7 +50,7 @@ int main()
     wgm.Kruskal();
     printf("\n");
 
-    WGraphPrin hg;
+    WGraphPrim hg;
     hg.load("../graph.txt");
     printf("MST By Prin's Algorithm\n");
     hg.Prim(0);
