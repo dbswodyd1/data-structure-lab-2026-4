@@ -1,7 +1,7 @@
 ﻿  main.cpp
-C:\Users\sk481\OneDrive\바탕 화면\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\AdjMatGraph.h(7,9): warning C4005: 'MAX_VTXS': 매크로 재정의
+C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\AdjMatGraph.h(7,1): warning C4005: 'MAX_VTXS': 매크로 재정의
   (소스 파일 'main.cpp'을(를) 컴파일하는 중)
-      C:\Users\sk481\OneDrive\바탕 화면\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\VertexSets.h(4,9):
-      'MAX_VTXS'의 이전 정의를 참조하십시오.
+  C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\Lec10_Graph\VertexSets.h(4,1):
+  'MAX_VTXS'의 이전 정의를 참조하십시오.
   
-  Lec10_Graph.vcxproj -> C:\Users\sk481\OneDrive\바탕 화면\data-structure-lab-2026-4\Lec10_Graph\x64\Debug\Lec10_Graph.exe
+  Lec10_Graph.vcxproj -> C:\Users\USER\Documents\data-structure-lab-2026-4\Lec10_Graph\x64\Debug\Lec10_Graph.exe

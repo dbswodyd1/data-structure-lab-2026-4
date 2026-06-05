@@ -32,5 +32,17 @@
     <ClInclude Include="MinHeap.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="WGraphDijkstra.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="WGraphPrin.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="WGraphMST.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="WGraph.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
