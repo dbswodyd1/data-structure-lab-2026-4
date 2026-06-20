@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\sk481\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-2026\\Lec04_Class_Example\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11987AB4-23F1-4F56-AD87-A0FEB47029AA}|Lec04_Class_Example\\Lec04_Class_Example.vcxproj|C:\\Users\\sk481\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-2026\\Lec04_Class_Example\\Lec04_Class_Example\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{11987AB4-23F1-4F56-AD87-A0FEB47029AA}|Lec04_Class_Example\\Lec04_Class_Example.vcxproj|solutionrelative:Lec04_Class_Example\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{11987AB4-23F1-4F56-AD87-A0FEB47029AA}|Lec04_Class_Example\\Lec04_Class_Example.vcxproj|C:\\Users\\sk481\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-2026\\Lec04_Class_Example\\Lec04_Class_Example\\Music.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{11987AB4-23F1-4F56-AD87-A0FEB47029AA}|Lec04_Class_Example\\Lec04_Class_Example.vcxproj|solutionrelative:Lec04_Class_Example\\Music.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11987AB4-23F1-4F56-AD87-A0FEB47029AA}|Lec04_Class_Example\\Lec04_Class_Example.vcxproj|C:\\Users\\sk481\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-2026\\Lec04_Class_Example\\Lec04_Class_Example\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11987AB4-23F1-4F56-AD87-A0FEB47029AA}|Lec04_Class_Example\\Lec04_Class_Example.vcxproj|solutionrelative:Lec04_Class_Example\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11987AB4-23F1-4F56-AD87-A0FEB47029AA}|Lec04_Class_Example\\Lec04_Class_Example.vcxproj|C:\\Users\\sk481\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-2026\\Lec04_Class_Example\\Lec04_Class_Example\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\sk481\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-2026\\Lec04_Class_Example\\Lec04_Class_Example\\main.cpp",
               "RelativeDocumentMoniker": "Lec04_Class_Example\\main.cpp",
               "ToolTip": "C:\\Users\\sk481\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-2026\\Lec04_Class_Example\\Lec04_Class_Example\\main.cpp",
               "RelativeToolTip": "Lec04_Class_Example\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACoAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-04-04T16:48:56.713Z",
               "EditorCaption": ""
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Music.h",
               "DocumentMoniker": "C:\\Users\\sk481\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-2026\\Lec04_Class_Example\\Lec04_Class_Example\\Music.h",
               "RelativeDocumentMoniker": "Lec04_Class_Example\\Music.h",
@@ -75,7 +75,8 @@
               "RelativeToolTip": "Lec04_Class_Example\\Music.h",
               "ViewState": "AgIAADAAAAAAAAAAAAAAACkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-04T16:48:58.65Z"
+              "WhenOpened": "2026-04-04T16:48:58.65Z",
+              "EditorCaption": ""
             }
           ]
         }

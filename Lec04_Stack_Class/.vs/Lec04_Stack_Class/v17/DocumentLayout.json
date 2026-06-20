@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sk481\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-2026\\Lec04_Stack_Class\\",
+  "WorkspaceRootPath": "C:\\Users\\sk481\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-lab-2026-4\\Lec04_Stack_Class\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAD5197C-BC22-4DF2-9872-2FB8F47956FE}|Lec04_Stack_Class\\Lec04_Stack_Class.vcxproj|C:\\Users\\sk481\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-2026\\Lec04_Stack_Class\\Lec04_Stack_Class\\stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BAD5197C-BC22-4DF2-9872-2FB8F47956FE}|Lec04_Stack_Class\\Lec04_Stack_Class.vcxproj|C:\\Users\\sk481\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-lab-2026-4\\Lec04_Stack_Class\\Lec04_Stack_Class\\stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BAD5197C-BC22-4DF2-9872-2FB8F47956FE}|Lec04_Stack_Class\\Lec04_Stack_Class.vcxproj|solutionrelative:Lec04_Stack_Class\\stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAD5197C-BC22-4DF2-9872-2FB8F47956FE}|Lec04_Stack_Class\\Lec04_Stack_Class.vcxproj|C:\\Users\\sk481\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-2026\\Lec04_Stack_Class\\Lec04_Stack_Class\\stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BAD5197C-BC22-4DF2-9872-2FB8F47956FE}|Lec04_Stack_Class\\Lec04_Stack_Class.vcxproj|C:\\Users\\sk481\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-lab-2026-4\\Lec04_Stack_Class\\Lec04_Stack_Class\\stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BAD5197C-BC22-4DF2-9872-2FB8F47956FE}|Lec04_Stack_Class\\Lec04_Stack_Class.vcxproj|solutionrelative:Lec04_Stack_Class\\stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,24 +24,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "stack.cpp",
-              "DocumentMoniker": "C:\\Users\\sk481\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-2026\\Lec04_Stack_Class\\Lec04_Stack_Class\\stack.cpp",
+              "DocumentMoniker": "C:\\Users\\sk481\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-lab-2026-4\\Lec04_Stack_Class\\Lec04_Stack_Class\\stack.cpp",
               "RelativeDocumentMoniker": "Lec04_Stack_Class\\stack.cpp",
-              "ToolTip": "C:\\Users\\sk481\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-2026\\Lec04_Stack_Class\\Lec04_Stack_Class\\stack.cpp",
+              "ToolTip": "C:\\Users\\sk481\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-lab-2026-4\\Lec04_Stack_Class\\Lec04_Stack_Class\\stack.cpp",
               "RelativeToolTip": "Lec04_Stack_Class\\stack.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-14T16:55:02.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T16:55:02.122Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "stack.h",
-              "DocumentMoniker": "C:\\Users\\sk481\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-2026\\Lec04_Stack_Class\\Lec04_Stack_Class\\stack.h",
+              "DocumentMoniker": "C:\\Users\\sk481\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-lab-2026-4\\Lec04_Stack_Class\\Lec04_Stack_Class\\stack.h",
               "RelativeDocumentMoniker": "Lec04_Stack_Class\\stack.h",
-              "ToolTip": "C:\\Users\\sk481\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-2026\\Lec04_Stack_Class\\Lec04_Stack_Class\\stack.h",
+              "ToolTip": "C:\\Users\\sk481\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-lab-2026-4\\Lec04_Stack_Class\\Lec04_Stack_Class\\stack.h",
               "RelativeToolTip": "Lec04_Stack_Class\\stack.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-04-14T16:54:25.027Z",
               "EditorCaption": ""

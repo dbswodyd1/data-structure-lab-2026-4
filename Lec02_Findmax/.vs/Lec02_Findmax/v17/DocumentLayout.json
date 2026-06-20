@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sk481\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-lab-2026-4\\Lec02_Findmax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91A0849A-E461-4B1D-841C-DB6E223A03E3}|Lec02_Findmax\\Lec02_Findmax.vcxproj|C:\\Users\\sk481\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-lab-2026-4\\Lec02_Findmax\\Lec02_Findmax\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91A0849A-E461-4B1D-841C-DB6E223A03E3}|Lec02_Findmax\\Lec02_Findmax.vcxproj|solutionrelative:Lec02_Findmax\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\sk481\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-lab-2026-4\\Lec02_Findmax\\Lec02_Findmax\\main.c",
+              "RelativeDocumentMoniker": "Lec02_Findmax\\main.c",
+              "ToolTip": "C:\\Users\\sk481\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\data-structure-lab-2026-4\\Lec02_Findmax\\Lec02_Findmax\\main.c",
+              "RelativeToolTip": "Lec02_Findmax\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-06-20T10:14:08.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
